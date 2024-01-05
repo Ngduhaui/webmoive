@@ -1,0 +1,61 @@
+a.nav-link {
+    color:white;
+    font-weight: 900;
+}
+
+a.btn {
+    color:white;
+    font-weight: 900;
+    border: none;
+}
+
+button.btn {
+    color:white;
+    font-weight: 900;
+    border: none;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.error-message {
+    color: red;
+}
+
+
+/* movie */
+.movie-container,
+.signup-container {
+    text-align: center;
+    margin-top: 50px; /* Điều chỉnh khoảng cách giữa tiêu đề và liên kết */
+}
+
+.center-title {
+    font-size: 24px;
+    color: #333;
+}
+
+.center-link {
+    display: block;
+    margin-top: 10px; /* Điều chỉnh khoảng cách giữa tiêu đề và liên kết */
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.your-custom-class {
+    /* Add your CSS styling here */
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
